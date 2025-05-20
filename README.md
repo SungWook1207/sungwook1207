@@ -3,8 +3,9 @@
 </br>
 
 ## 👦 About Me
-- George Mason University (Film and Video Studies)
+- George Mason University (B.A. in Film and Video Studies)
 - George Washington University Coding Bootcamp
+- University of Maryland Global Campus (M.S. in Software Engineering)
 - contact: yoowook1207@gmail.com
 - linkedin: [Sung Yoo](https://www.linkedin.com/in/sung-yoo-7a5b92213/)
   
