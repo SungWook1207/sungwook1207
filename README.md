@@ -1,5 +1,3 @@
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoowook1207&count_bg=%233D9CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
-
 # <p style="text-align: center;">Hi, I'm <b> Sung Wook Yoo</b> 👋</p>
 <p style="text-align: center;"> <i>A full-stack developer who wants to develop the world better</i></p>
 </br>
