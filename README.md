@@ -17,11 +17,11 @@
 
 #### 📌 <b>Program Languages</b>
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/java-f89820.svg?style=flat&logo=java&logoColor=black"/> <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=flat&logo=kotlin&logoColor=black"/> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/java-f89820.svg?style=flat&logo=java&logoColor=black"/> <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=flat&logo=kotlin&logoColor=black"/> <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=flat&logo=dart&logoColor=white"/> 
 
 
 #### 📌 <b>Front-end Tech</b>
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/ReactJS-61DAFB.svg?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=flat&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/RxJS-B7178C.svg?style=flat&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/ReactJS-61DAFB.svg?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=flat&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/RxJS-B7178C.svg?style=flat&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white"/>
 
 
 #### 📌 <b>Back-end Tech</b>
@@ -39,7 +39,6 @@
 
 ## 🌱 I’m currently studying ...
 - Machine Learning / Generative AI
-- AWS
 
 <!--
 **yoowook1207/yoowook1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
