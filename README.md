@@ -21,7 +21,7 @@
 
 
 #### 📌 <b>Front-end Tech</b>
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/ReactJS-61DAFB.svg?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=flat&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/RxJS-B7178C.svg?style=flat&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/nextdotjs-000000.svg?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/ReactJS-61DAFB.svg?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=flat&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/RxJS-B7178C.svg?style=flat&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/nextdotjs-000000.svg?style=flat&logo=nextJS&logoColor=white"/>
 
 
 #### 📌 <b>Back-end Tech</b>
